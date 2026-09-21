@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://break-even-roas-calculator.github.io/sitemap.xml
