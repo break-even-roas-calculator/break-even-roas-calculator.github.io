@@ -20,4 +20,5 @@ Break-even ROAS is one divided by your contribution margin, and everything inter
 
 *This is an independent page about advertising arithmetic, not affiliated with or endorsed by TrendTrack, and all trademarks belong to their respective owners.*
 
+
 _Last reviewed: 2026-09-22_
